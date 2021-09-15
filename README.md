@@ -22,7 +22,6 @@ Here are some ideas to get you started:
  <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seetaram-oruganti&show_icons=true&theme=dark&locale=en&layout=compact" alt="seetaram-oruganti" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=seetaram-oruganti&show_icons=true&theme=dark&locale=en" alt="seetaram-oruganti" />
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seetaram-oruganti&theme=dark" alt="seetaram-oruganti" />
 </p>
 </p>
