@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<p align="center">
+ <img src="https://github.com/seetaram-oruganti/seetaram-oruganti/blob/main/GIF_GITHUB.gif" height="300" width="500"/>
+ </p>
+ 
 <!--
 **seetaram-oruganti/seetaram-oruganti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <p><img align="center" src="https://komarev.com/ghpvc/?username=seetaram-oruganti&label=Profile%20views&color=0e75b6&style=flat" alt="sainikhil1605" /></p>
+<p align = "center">
+ <p><img align="center" src="https://komarev.com/ghpvc/?username=seetaram-oruganti&label=Profile%20views&color=0e75b6&style=flat" alt="seetaram-oruganti" /></p>
  <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=seetaram-oruganti&show_icons=true&theme=dark&locale=en&layout=compact" alt="sainikhil1605" />
-<img  src="https://github-readme-stats.vercel.app/api?username=seetaram-oruganti&show_icons=true&theme=dark&locale=en" alt="sainikhil1605" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seetaram-oruganti&show_icons=true&theme=dark&locale=en&layout=compact" alt="seetaram-oruganti" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=seetaram-oruganti&show_icons=true&theme=dark&locale=en" alt="seetaram-oruganti" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seetaram-oruganti&theme=dark" alt="sainikhil1605" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seetaram-oruganti&theme=dark" alt="seetaram-oruganti" />
+</p>
 </p>
 ### 🛠 &nbsp;Tech Stack
 
